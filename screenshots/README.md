@@ -3,10 +3,10 @@
 <img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/1.png?raw=true" width="500">
 
 ### 2. 3개 이상의 class와 1개 이상의 interface
-<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2.png?raw=true" width="500">
-
-### 3. 3번 이상의 버전 기록
 <img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/3.png?raw=true" width="500">
+
+### 3. 3번 이상의 버전 기록 
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2.png?raw=true" width="500">
 
 ### 4. 단어 추가 기능 실행 
 <img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/1.png?raw=true" width="500">

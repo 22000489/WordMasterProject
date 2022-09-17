@@ -109,7 +109,7 @@ public class WordCRUD implements ICRUD {
             list.remove((int)idlist.get(id-1));
             System.out.println("\n선택한 단어 삭제 완료!!! ");
         } else
-            System.out.println("취소되었습니다. ");
+            System.out.println("취소되었습니다.");
     }
     public void loadFile(){
         try {

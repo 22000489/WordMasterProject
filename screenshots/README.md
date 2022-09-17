@@ -22,3 +22,24 @@
 
 ### 8. 나가기 기능 실행
 <img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/8.png?raw=true" width="500">
+
+### 9. 파일 로드 및 단어 수정 기능 실행
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-2.png?raw=true" width="500">
+
+### 10. 단어 삭제 기능 실행
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-1.png?raw=true" width="500">
+
+### 11. 파일 저장 기능 실행
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-3.png?raw=true" width="500">
+
+### 12. 단어 목록 보기
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-4.png?raw=true" width="500">
+
+### 13. 레벨별 보기 기능 실행
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-5.png?raw=true" width="500">
+
+### 13. 단어 검색 기능 실행
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-6.png?raw=true" width="500">
+
+### 14. 프로그램 종료
+<img src="https://github.com/22000489/WordMasterProject/blob/main/screenshots/2-7.png?raw=true" width="500">

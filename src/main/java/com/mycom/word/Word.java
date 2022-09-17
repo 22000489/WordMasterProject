@@ -54,5 +54,8 @@ public class Word {
         // 단어는 오른쪽에 약 15칸 정도를 공백으로 두어 정렬해줌
         return str;
     }
+    public String toFileString() {
+        return this.level + "|" + this.word + "|" + this.meaning;
+    }
 
 }

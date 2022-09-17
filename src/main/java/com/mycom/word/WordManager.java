@@ -28,6 +28,7 @@ public class WordManager {
     }
 
     public void start() {
+        wordCRUD.loadFile();
         System.out.print("*** 영단어 마스터 ***\n");
         while(true) {
             int menu = selectMenu();
@@ -38,11 +39,30 @@ public class WordManager {
             }
             if(menu == 4) {
                 //create
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             else if(menu == 1) {
                 //list
                 wordCRUD.listAll();
+            }
+            else if(menu == 2) {
+                //list
+                wordCRUD.searchlevel();
+            }
+            else if(menu == 3) {
+                //list
+                wordCRUD.searchWord();
+            }
+            else if(menu == 5) {
+                //update
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6) {
+                //delete
+                wordCRUD.deleteItem();
+            }
+            else if(menu == 7) {
+                wordCRUD.saveFile();
             }
         }
     }

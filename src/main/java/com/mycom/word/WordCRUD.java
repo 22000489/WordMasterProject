@@ -93,7 +93,7 @@ public class WordCRUD implements ICRUD {
         String meaning = s.nextLine();
         Word word = list.get(idlist.get(id-1));
         word.setMeaning(meaning);
-        System.out.print ("\n단어 수정이 성공적으로 되었습니다!! ");
+        System.out.print ("\n단어 수정이 성공적으로 되었습니다!!\n");
     }
 
     public void deleteItem() {
